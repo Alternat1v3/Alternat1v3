@@ -2,7 +2,7 @@
 
 Full-stack developer in Lahore, Pakistan. TypeScript, Node.js, React and PostgreSQL.
 
-I build and sell **[BoltSync](https://tryboltsync.com)**, offline-first billing and accounting software that retail shops run all day on the counter. I own the whole product: what to build, the data model, testing, releases, sales and customer support. I build with AI coding tools (Claude Code), and I review, test and ship everything myself.
+I build and sell **[BoltSync](https://tryboltsync.com)**, offline-first billing and accounting software that retail shops run all day on the counter. I took it from idea to paying customers and run every part of it: product decisions, data model, testing, releases, sales and customer support.
 
 ### BoltSync at a glance
 
@@ -23,6 +23,10 @@ The source is private because it's a commercial product. I'm happy to walk throu
 | [FileSharing](https://github.com/Alternat1v3/FileSharing) | Upload a file and get a shareable download link | React, Node.js, Express, MongoDB |
 | [Portfolio desktop app](https://github.com/Alternat1v3/Portfolio-Desktop-App-Electron) | A client-commissioned portfolio that runs offline as a desktop app | Electron |
 | [JobApplicationEasy](https://github.com/Alternat1v3/JobApplicationEasy) | Job-search mobile app | React Native, TypeScript |
+
+### Skills
+
+TypeScript, JavaScript, SQL, Python · React, React Native, Tailwind CSS · Node.js, Express, Electron, Django · PostgreSQL, MongoDB · Git, automated testing, AI-assisted development (Claude Code)
 
 ### Find me
 
