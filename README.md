@@ -19,6 +19,7 @@ The source is private because it's a commercial product. I'm happy to walk throu
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [Toxic comment classifier](https://github.com/Alternat1v3/toxic-comment-classifier) | Real-time chat that flags toxic messages with a BERT model I fine-tuned (my final-year project, rebuilt) | Django, Channels, React, PyTorch |
 | [CollaboraX](https://github.com/Alternat1v3/CollaboraX) | Team and project management with a drag-and-drop Kanban board and real-time chat | React, TypeScript, Node.js, Express, MongoDB, Socket.io |
 | [FileSharing](https://github.com/Alternat1v3/FileSharing) | Upload a file and get a shareable download link | React, Node.js, Express, MongoDB |
 | [Portfolio desktop app](https://github.com/Alternat1v3/Portfolio-Desktop-App-Electron) | A client-commissioned portfolio that runs offline as a desktop app | Electron |
